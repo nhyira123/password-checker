@@ -13,5 +13,8 @@ This is a simple Python project that checks how strong a password is and gives s
    ```bash
    python password_checker.py
 
-
-
+🎓 What I Learned
+- How to assess password complexity using Python
+- Importance of length, symbols, numbers, and uppercase letters in password security
+- Basic string manipulation and condition checking
+- Awareness of password cracking techniques like brute force
